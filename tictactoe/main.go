@@ -1,3 +1,4 @@
+package main
 func tictactoe(moves [][]int) string {
     movesA:= [][]int{}
 	movesB:=[][]int{}
